@@ -1,6 +1,10 @@
-# Skills
+<h1 align="center">
+  <code>Skills</code>
+</h1>
 
+<p align="center">
 My personal repository of AI agent skills and system prompts used to optimize daily coding routines, speed up development, and enhance code quality.
+</p>
 
 ---
 
