@@ -37,6 +37,7 @@ skills/
 | Skill | Description |
 |-------|-------------|
 | [typescript-test-formatter](skills/typescript-test-formatter/SKILL.md) | Enforces a strict data-driven test structure using `describe.each` and mandates modular, composable test data generation with `@faker-js/faker` under `test/examples/`. |
+| [typescript-utility-best-practices](skills/typescript-utility-best-practices/SKILL.md) | Enforces the use of `es-toolkit` for standard utility operations to prevent code duplication and optimize bundle performance. |
 
 ---
 
