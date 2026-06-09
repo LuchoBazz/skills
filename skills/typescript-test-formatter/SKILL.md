@@ -1,6 +1,11 @@
 ---
 name: typescript-test-formatter
 description: Enforces a strict data-driven test structure using describe.each and mandates modular, composable test data generation with @faker-js/faker under test/examples/.
+license: MIT
+compatibility: "Claude Code, Gemini, Codex, and any AI agent operating in a TypeScript/JavaScript environment."
+metadata:
+  author: Luis Miguel Báez (LuchoBazz)
+  version: "1.0"
 ---
 
 # TypeScript Data-Driven Testing & Domain Examples Protocol
