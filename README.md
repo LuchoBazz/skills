@@ -36,6 +36,7 @@ skills/
 
 | Skill | Description |
 |-------|-------------|
+| [typescript-autonomous-security-remediation](skills/typescript-autonomous-security-remediation/SKILL.md) | Autonomous protocol for identifying, upgrading, and remediating Critical, High, and Moderate vulnerabilities using npm audit, resolving transitive overrides, and refactoring breaking changes based on official documentation. |
 | [typescript-test-formatter](skills/typescript-test-formatter/SKILL.md) | Enforces a strict data-driven test structure using `describe.each` and mandates modular, composable test data generation with `@faker-js/faker` under `test/examples/`. |
 | [typescript-utility-best-practices](skills/typescript-utility-best-practices/SKILL.md) | Enforces the use of `es-toolkit` for standard utility operations to prevent code duplication and optimize bundle performance. |
 

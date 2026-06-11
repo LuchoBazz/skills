@@ -32,16 +32,17 @@ For every targeted vulnerability, you must follow this strict incremental loop:
 ### Step 2.1: Direct Dependencies Update
 * Attempt automated fixing first using `npm audit fix`.
 * If a package requires a major version bump to resolve the vulnerability (which `npm audit fix` skips by default), force the installation of the secure semantic version:
+
   ```bash
   npm install <package-name>@<secure-version>
-
-```
+  ```
 
 ### Step 2.2: Transitive Dependencies Override
 
 If the vulnerability originates from a nested/transitive package (e.g., `protobufjs` or `lodash` inside a third-party framework) and cannot be updated directly:
 
 * Use the `overrides` field inside `package.json` to force npm to resolve the secure version globally.
+
 ```json
 "overrides": {
   "vulnerable-package-name": "^<secure-version>"
