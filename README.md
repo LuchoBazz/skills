@@ -1,5 +1,5 @@
 <h1 align="center">
-  <code>Skills</code>
+  <code>LuchoBazz/Skills</code>
 </h1>
 
 <p align="center">
