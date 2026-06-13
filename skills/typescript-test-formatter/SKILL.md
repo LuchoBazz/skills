@@ -2,7 +2,7 @@
 name: typescript-test-formatter
 description: Enforces a strict data-driven test structure using describe.each and mandates modular, composable test data generation with @faker-js/faker under test/examples/.
 license: MIT
-compatibility: "Claude Code, Gemini, Codex, and any AI agent operating in a TypeScript/JavaScript environment."
+compatibility: "Any AI coding assistant or agentic framework that supports CLI execution and read/write file operations (e.g., Claude Code, Gemini, Cursor)."
 metadata:
   author: Luis Miguel Báez (LuchoBazz)
   version: "1.0"

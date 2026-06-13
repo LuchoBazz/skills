@@ -2,7 +2,7 @@
 name: typescript-autonomous-security-remediation
 description: Autonomous protocol for identifying, upgrading, and remediating Critical, High, and Moderate vulnerabilities using npm audit, resolving transitive overrides, and refactoring breaking changes based on official documentation.
 license: MIT
-compatibility: "Claude Code, Gemini, Codex, and any AI agent with terminal execution and file writing capabilities."
+compatibility: "Any AI coding assistant or agentic framework that supports CLI execution and read/write file operations (e.g., Claude Code, Gemini, Cursor)."
 metadata:
   author: Luis Miguel Báez (LuchoBazz)
   version: "1.0"

@@ -2,7 +2,7 @@
 name: typescript-utility-best-practices
 description: Enforces the use of es-toolkit for standard utility operations based on the official documentation at https://es-toolkit.dev/ to prevent code duplication and optimize bundle performance.
 license: MIT
-compatibility: "Claude Code, Gemini, Codex, and any AI agent operating in a TypeScript/JavaScript environment."
+compatibility: "Any AI coding assistant or agentic framework that supports CLI execution and read/write file operations (e.g., Claude Code, Gemini, Cursor)."
 metadata:
   author: Luis Miguel Báez (LuchoBazz)
   version: "1.0"

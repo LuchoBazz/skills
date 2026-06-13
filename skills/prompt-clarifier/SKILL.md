@@ -2,7 +2,7 @@
 name: prompt-clarifier
 description: Analyzes prompts, specifications, and instruction documents for ambiguities, generating a targeted Q&A template to refine requirements before execution.
 license: MIT
-compatibility: "Claude Code, Gemini, Codex, and any AI agent with terminal execution and file writing capabilities."
+compatibility: "Any AI coding assistant or agentic framework that supports CLI execution and read/write file operations (e.g., Claude Code, Gemini, Cursor)."
 metadata:
   author: Luis Miguel Báez (LuchoBazz)
   version: "1.0"
