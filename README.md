@@ -41,6 +41,7 @@ skills/
 | [typescript-test-formatter](skills/typescript-test-formatter/SKILL.md) | Enforces a strict data-driven test structure using `describe.each` and mandates modular, composable test data generation with `@faker-js/faker` under `test/examples/`. |
 | [typescript-utility-best-practices](skills/typescript-utility-best-practices/SKILL.md) | Enforces the use of `es-toolkit` for standard utility operations to prevent code duplication and optimize bundle performance. |
 | [docusaurus-search-local](skills/docusaurus-search-local/SKILL.md) | Adds fully offline local full-text search to a Docusaurus v2/v3 + TypeScript project using `@easyops-cn/docusaurus-search-local`, with typed config and no external search service. |
+| [docusaurus-bun-setup](skills/docusaurus-bun-setup/SKILL.md) | Sets up Bun as the package manager and runtime for a Docusaurus v2/v3 + TypeScript project — installs Bun, migrates lockfile, configures `package.json`, pins the version locally and in CI (GitHub Actions). |
 
 ---
 
