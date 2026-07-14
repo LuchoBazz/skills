@@ -78,8 +78,12 @@ Add the following fields if not already present:
   },
   "trustedDependencies": [
     "@swc/core",
-    "core-js"
-  ]
+    "core-js",
+    "core-js-pure"
+  ],
+  "overrides": {
+    "webpackbar": "7.0.0"
+  }
 }
 ```
 
