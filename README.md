@@ -42,6 +42,7 @@ skills/
 | [typescript-utility-best-practices](skills/typescript-utility-best-practices/SKILL.md) | Enforces the use of `es-toolkit` for standard utility operations to prevent code duplication and optimize bundle performance. |
 | [docusaurus-search-local](skills/docusaurus-search-local/SKILL.md) | Adds fully offline local full-text search to a Docusaurus v2/v3 + TypeScript project using `@easyops-cn/docusaurus-search-local`, with typed config and no external search service. |
 | [docusaurus-bun-setup](skills/docusaurus-bun-setup/SKILL.md) | Sets up Bun as the package manager and runtime for a Docusaurus v2/v3 + TypeScript project — installs Bun, migrates lockfile, configures `package.json`, pins the version locally and in CI (GitHub Actions). |
+| [ielts-listening-generator](skills/ielts-listening-generator/SKILL.md) | Generate one authentic IELTS Listening section at a time — a spoken transcript plus a ready-to-render Gemini multi-speaker TTS config. |
 
 ---
 
